@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
   "changelog": "1. 新增自动更新\n2. 增加ping检测\n3. 优化日志显示",
-  "url": "https://github.com/aihenai/frp-launcher/releases/download/v1.0.1/FRP_Launcher.exe"
+  "url": "https://github.com/aihenai/frp-launcher/releases/download/v1.0.0/FRP_Launcher.exe"
 }
