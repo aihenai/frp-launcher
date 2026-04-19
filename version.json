@@ -1,8 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "url": "https://github.com/aihenai/frp-launcher/releases",
-  "changelog": "1、增加检测更新功能
-                2、增加跳转到最新版本下载地址功能
-                3、增加启动时检测延迟功能
-                4、增加输出和复制联机地址功能"
+  "changelog": "1、增加检测更新功能\n2、增加跳转到最新版本下载地址功能\n3、增加启动时检测延迟功能\n4、增加输出和复制联机地址功能"
 }
