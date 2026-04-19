@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.0",
   "url": "https://github.com/aihenai/frp-launcher/releases",
   "changelog": "修复启动失败问题"
 }
